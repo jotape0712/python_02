@@ -1,0 +1,5 @@
+ Podemos usar o PIP LIST no nosso terminal para listar as bibliotecas instaladas e suas respectivas versões.
+ 
+ https://pypi.org/ (  repositório centralizado para pacotes Python com milhares de bibliotecas disponíveis para instalação. )
+
+ 
